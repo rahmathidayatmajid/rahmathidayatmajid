@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 
 # Hello, folks! <img src="wave.gif" width="30px">
 
-My name is Fahmi Alfareza and I'm a software developer/Backend engineer. I'm from Indonesia, living in Magelang and currently working at Binar Academy as Backend Mentor in Glints Academy Bootcamp.
+My name is Rahmat Hidayat and I'm a software developer/Backend engineer. I'm from Indonesia, living in Aceh and currently student at Binar x Glints Academy Bootcamp as Backend Developer. 
 
 ## 📝 Get In Touch
 
