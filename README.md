@@ -9,15 +9,15 @@ rahmathidayatmajid/rahmathidayatmajid is a ✨ special ✨ repository because it
 You can click the Preview link to take a look at your changes.
 --->
 
-# Hello, folks! <img src="wave.gif" width="30px">
+# Hello World! <img src="wave.gif" width="30px">
 
-My name is Rahmat Hidayat and I'm a software developer/Backend engineer. I'm from Indonesia, living in Aceh and currently student at Binar x Glints Academy Bootcamp as Backend Developer. 
+My name is Rahmat Hidayat and I'm a software engineer/Backend developer. I'm from Indonesia, living in Aceh and currently studying at Binar x Glints Academy Bootcamp as Backend Developer. 
 
 ## 📝 Get In Touch
 
 [![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)][instagram]
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
-[![email](https://img.shields.io/badge/icloud-%23007aff.svg?&style=for-the-badge&logo=icloud&logoColor=white)][email]
+[![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)][email]
 
 ## 🔧 Technologies & Tools
 
