@@ -17,7 +17,7 @@ My name is Rahmat Hidayat and I'm a software developer/Backend engineer. I'm fro
 
 [![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)][instagram]
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
-[![iCloud](https://img.shields.io/badge/icloud-%23007aff.svg?&style=for-the-badge&logo=icloud&logoColor=white)][icloud]
+[![email](https://img.shields.io/badge/icloud-%23007aff.svg?&style=for-the-badge&logo=icloud&logoColor=white)][email]
 
 ## 🔧 Technologies & Tools
 
